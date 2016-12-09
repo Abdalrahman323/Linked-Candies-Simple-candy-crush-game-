@@ -1,2 +1,2 @@
 # Linked-Candies-
-Simple-candy-crush-game- using C++
+a Simple candy crush game using c++
