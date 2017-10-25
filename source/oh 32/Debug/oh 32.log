@@ -1,0 +1,39 @@
+﻿Build started 5/19/2016 8:08:05 PM.
+     1>Project "D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\oh 32\oh 32.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\oh 32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Board.cpp Bonous_Manager.cpp main.cpp Score_manager.cpp Sound_manager.cpp Texture_Data.cpp
+         Texture_Data.cpp
+         Sound_manager.cpp
+         Score_manager.cpp
+         main.cpp
+         Bonous_Manager.cpp
+         Board.cpp
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(73): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(85): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(87): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(99): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(101): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(129): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(131): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(402): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(506): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(664): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\learn\tutorials\projects\candy crush game\candy crush game$\oh 32\oh 32\board.cpp(687): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\Debug\oh 32.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\oh 32\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\Debug\oh 32.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\Debug\oh 32.lib" /MACHINE:X86 Debug\Board.obj
+         Debug\Bonous_Manager.obj
+         Debug\main.obj
+         Debug\Score_manager.obj
+         Debug\Sound_manager.obj
+         Debug\Texture_Data.obj
+         oh 32.vcxproj -> D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\Debug\oh 32.exe
+     1>Done Building Project "D:\learn\tutorials\projects\Candy crush game\candy crush game$\oh 32\oh 32\oh 32.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.47
