@@ -6,8 +6,8 @@ read the first section of sfml tutorial to do that
 or search online ; 
 # Enhancement you may do
  - multithreading will improve it .<br />
-   (i made it when  i don't know what's multithreading is.)<br />
-- dynamic board ( input dimention from the user)<br />
+   (i made it when  i don't know anything about it)<br />
+- dynamic board ( input dimentions from the user) <br />
 - simulate the motion of the candies like (falling of the candies)<br />
 # screenshots
   
