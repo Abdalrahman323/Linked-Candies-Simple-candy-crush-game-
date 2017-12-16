@@ -4,9 +4,11 @@ to run the game you need to include sfml library.
 download it according to your OS  
 read the first section of sfml tutorial to do that
 or search online ; 
-# Enhancement 
- multithreading will improve it .
-(i made it when  i don't know what's multithreading is.)
+# Enhancement you may do
+ -multithreading will improve it .
+  (i made it when  i don't know what's multithreading is.)
+-dynamic board ( input dimention from the user)
+-simulate the motion of the candies like (falling of the candies)
 # screenshots
   
 [![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/1.jpg)](screenshot1)
