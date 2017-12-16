@@ -6,6 +6,7 @@ read the first section of sfml tutorial to do that
 or search online ; 
 # Enhancement 
  multithreading will improve it  
+# screenshots
   
 [![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/1.jpg)](screenshot1)
 [![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/6.jpg)](screenshot2)
