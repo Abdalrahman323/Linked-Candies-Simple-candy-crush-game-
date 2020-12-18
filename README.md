@@ -11,6 +11,6 @@ or search online ;
 - simulate the motion of the candies like (falling of the candies)<br />
 # screenshots
   
-[![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/1.jpg)](screenshot1)
-[![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/6.jpg)](screenshot2)
+[![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/1.jpg)](screenshot1)[![solarized dualmode](https://github.com/Abdalrahman323/candy-crush-game/blob/master/Screenshots/6.jpg)](screenshot2)
+
 
